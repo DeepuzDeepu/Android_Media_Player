@@ -1,0 +1,5 @@
+com.example.deepakmediaplayer.test.automotive-core-1.6.1-0 /home/deepak.rasalam@acsiatech.com/.gradle/caches/transforms-4/7934f1816d90a61260fde5c865f86ca2/transformed/core-1.6.1/res
+com.example.deepakmediaplayer.test.automotive-androidTest-1 /home/deepak.rasalam@acsiatech.com/AndroidStudioProjects/DeepakMediaPlayer/automotive/build/generated/res/resValues/androidTest/debug
+com.example.deepakmediaplayer.test.automotive-mergeDebugAndroidTestResources-2 /home/deepak.rasalam@acsiatech.com/AndroidStudioProjects/DeepakMediaPlayer/automotive/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.deepakmediaplayer.test.automotive-mergeDebugAndroidTestResources-3 /home/deepak.rasalam@acsiatech.com/AndroidStudioProjects/DeepakMediaPlayer/automotive/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.deepakmediaplayer.test.automotive-debugAndroidTest-4 /home/deepak.rasalam@acsiatech.com/AndroidStudioProjects/DeepakMediaPlayer/automotive/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

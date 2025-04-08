@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-xhdpi_music_player_round.webp.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-xhdpi/music_player_round.webp"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_song.jpg.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/song.jpg"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_favourite_white_outline.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/favourite_white_outline.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_songimg.jpg.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/songimg.jpg"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-mdpi_music_player.webp.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-mdpi/music_player.webp"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-anydpi-v26_music_player.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-anydpi-v26/music_player.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_pausebutton.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/pausebutton.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_music_player_background.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/music_player_background.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/anim_scale_up.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/anim/scale_up.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_previousbutton.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/previousbutton.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-mdpi_music_player_foreground.webp.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-mdpi/music_player_foreground.webp"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/xml_automotive_app_desc.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/xml/automotive_app_desc.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/font_alexandria_light.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/font/alexandria_light.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/layout_media_all_songs_layout1.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/layout/media_all_songs_layout1.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/color_dark_gray.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/color/dark_gray.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_border.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/border.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_playbutton.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/playbutton.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-xxxhdpi_music_player_round.webp.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-xxxhdpi/music_player_round.webp"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-anydpi-v26_music_player_round.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-anydpi-v26/music_player_round.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/layout_fragment_media_category.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/layout/fragment_media_category.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/layout_fragment_file_browser.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/layout/fragment_file_browser.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_fade_in.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/fade_in.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/font_abhaya_libre_medium.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/font/abhaya_libre_medium.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_nextbutton.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/nextbutton.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-xxxhdpi_music_player.webp.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-xxxhdpi/music_player.webp"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_favourite_outline.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/favourite_outline.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_search_icon.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/search_icon.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-xhdpi_music_player_foreground.webp.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-xhdpi/music_player_foreground.webp"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_song5.png.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/song5.png"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_favourite.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/favourite.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-xhdpi_music_player.webp.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-xhdpi/music_player.webp"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/layout_fragment_artist.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/layout/fragment_artist.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_back_button.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/back_button.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-hdpi_music_player.webp.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-hdpi/music_player.webp"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_file.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/file.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_before_like.png.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/before_like.png"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_song2.png.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/song2.png"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_gradient_bg.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/gradient_bg.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_folder.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/folder.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-hdpi_music_player_round.webp.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-hdpi/music_player_round.webp"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_rounded_background.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/rounded_background.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_round_search.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/round_search.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-mdpi_music_player_round.webp.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-mdpi/music_player_round.webp"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_music_symbol.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/music_symbol.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-xxhdpi_music_player_round.webp.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-xxhdpi/music_player_round.webp"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/anim_fade_in.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/layout_media_all_songs_layout.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/layout/media_all_songs_layout.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_favourite_red.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/favourite_red.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/layout_media_category_layout.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/layout/media_category_layout.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_song3.png.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/song3.png"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-xxxhdpi_music_player_foreground.webp.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-xxxhdpi/music_player_foreground.webp"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/layout_activity_first.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/layout/activity_first.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_after_like.png.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/after_like.png"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/layout_fragment_media__playback_.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/layout/fragment_media__playback_.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/layout_media_artist_layout.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/layout/media_artist_layout.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/layout_fragment_media__items_.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/layout/fragment_media__items_.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-xxhdpi_music_player_foreground.webp.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-xxhdpi/music_player_foreground.webp"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_song4.jpg.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/song4.jpg"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_fav_animation.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/fav_animation.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/layout_file_item_layout.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/layout/file_item_layout.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/layout_fragment_search.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-xxhdpi_music_player.webp.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-xxhdpi/music_player.webp"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/font_adamina.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/font/adamina.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_textview_background.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/textview_background.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.deepakmediaplayer.automotive-debug-36:/mipmap-hdpi_music_player_foreground.webp.flat",
+        "source": "com.example.deepakmediaplayer.automotive-main-38:/mipmap-hdpi/music_player_foreground.webp"
+    }
+]
